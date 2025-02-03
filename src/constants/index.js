@@ -58,11 +58,11 @@ export const clientReviews = [
 
 export const myProjects = [
   {
-    title: 'Podcastr - AI Podcast Platform',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+    title: 'Lms - A Learning Management System Platform',
+    desc: 'Our LMS is an innovative Software-as-a-Service platform that revolutionizes online learning. With powerful features like AI-driven content recommendations, automated assessments, and seamless integration with video conferencing tools like Zoom, it enhances the learning experience for educators and students alike.',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+      'Built as a scalable Software-as-a-Service solution using modern technologies like Node.js, React Js, Tailwind CSS, and TypeScript, our LMS ensures optimal performance, security, and ease of use for institutions, trainers, and learners.',
+    href: '',
     texture: '/textures/project/project1.mp4',
     logo: '/assets/project-logo1.png',
     logoStyle: {
@@ -90,7 +90,7 @@ export const myProjects = [
       {
         id: 4,
         name: 'Framer Motion',
-        path: '/assets/framer.png',
+        path: '/assets/Node.png',
       },
     ],
   },
