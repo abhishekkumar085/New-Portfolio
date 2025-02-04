@@ -264,7 +264,7 @@ export const workExperiences = [
     pos: ' Software Developer',
     duration: 'Oct-2024 - Present',
     title: "Framer serves as my go-to tool for creating interactive prototypes. I use it to bring designs to  life, allowing stakeholders to experience the user flow and interactions before development.",
-    icon: '/assets/framer.svg',
+    icon: '/assets/prevoyance.png',
     animation: 'victory',
   },
   {
@@ -273,7 +273,7 @@ export const workExperiences = [
     pos: 'Software Developer',
     duration: 'jan-2024 - oct-2024',
     title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
-    icon: '/assets/figma.svg',
+    icon: '/assets/Righshift.png',
     animation: 'clapping',
   },
   {
@@ -282,7 +282,7 @@ export const workExperiences = [
     pos: 'Junior Software Developer',
     duration: 'June-2023 - jan-2024',
     title: " Wizorbit is a service-based company providing various IT services. During my tenure, I worked on a project called \"Anugatya Counseling System,\" a mobile app developed using Ionic, Angular, TypeScript. This app over more than 1000+ downloads on the Play Store.",
-    icon: '/assets/notion.svg',
+    icon: '/assets/wizorbit.png',
     animation: 'salute',
   },
 ];
